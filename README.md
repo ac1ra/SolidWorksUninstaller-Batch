@@ -1,0 +1,2 @@
+# SolidWorksUninstaller-Batch
+SolidworksUninstaller-Batch
