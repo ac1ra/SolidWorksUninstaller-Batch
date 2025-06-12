@@ -6,7 +6,7 @@ GOTO :menu
 echo =============================================================
 echo ==         SOLIDWORKS POST UNINSTALL CLEANER               ==
 echo ==     RUN THE COPY SETTINGS WIZARD BEFORE USING THIS.     ==
-echo ==  THIS TOOL WORKS FOR SOLIDWORKS 2007, 2008, 2009, 2010  ==
+echo ==  THIS TOOL WORKS FOR SOLIDWORKS 2007-2010, 2017, 2024   ==
 echo ==  ALSO CLEANS SRAC, DesignSource, GSSL, and BackOffice   ==
 echo == CLEANS REGISTRY, APPDATA, and PROGRAM FILES LEFT BEHIND ==
 echo ==              CREATED BY TYLER C. @0xTylerr              ==
